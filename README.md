@@ -28,3 +28,5 @@ I am Ali moumen,  A 17 year old Moroccan from Casablanca and I like a lot of stu
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndavedosn&show_icons=true&theme=radical) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=johndavedosn&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+Any sufficiently advanced bug is indistinguishable from a feature.
