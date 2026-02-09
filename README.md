@@ -4,7 +4,7 @@ I am Ali moumen,  An 18 year old Moroccan from Casablanca and I like a lot of st
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndavedosn&layout=compact)](https://github.com/johndavedosn)
 
--  🔭 Currently a Community lead at a Linux distro project called **Oreon** based on AlmaLinux.
+-  🔭 Currently a Project Lead at a Linux distro project called **BasaltOS** based on AlmaLinux.
 -  🌱 Love programming and messing around with math,  You don't like math,  you say? I will derive you!
 -  🛡️ Military and law enforcement geek,  SIR YES SIR!
 
